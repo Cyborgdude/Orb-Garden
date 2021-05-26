@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: acbb0d06df4730344b1ea5800288a98b
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 88c549d833dce9549b9b75342db1a97d
+  - enabled: 1
+    path: Assets/Scenes/GardenHub.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Platformer1.unity
+    guid: 23739be3304decc4d9f6185e4ada1e82
+  - enabled: 1
+    path: Assets/Scenes/Platformer2.unity
+    guid: e101d0c3cbb86a642b6c28d1a2c4b96c
+  - enabled: 1
+    path: Assets/Scenes/Blaster1.unity
+    guid: 2a8f61883bf8ebf49be390957df7096f
+  - enabled: 1
+    path: Assets/Scenes/Blaster2.unity
+    guid: adca8729593c40d429ba60f2e88b7cb7
+  - enabled: 1
+    path: Assets/Scenes/Blaster3.unity
+    guid: 51a72c79318a9724ca11685e74e6b7f4
+  - enabled: 1
+    path: Assets/Scenes/Launcher1.unity
+    guid: 6a5af1f84939a9f4f8d14d60b0576828
+  - enabled: 1
+    path: Assets/Scenes/Purple2.unity
+    guid: 2b5428c35d409d54fa2d58cd0eedc630
+  - enabled: 1
+    path: Assets/Scenes/Blue1.unity
+    guid: 5f4f92c883890a643bc0f6a43f89588e
+  - enabled: 1
+    path: Assets/Scenes/Purple1.unity
+    guid: 53be7522981317b42b7c45090ae8a8d5
+  - enabled: 1
+    path: Assets/Scenes/Final1.unity
+    guid: bd3f42a7c3dcd814f8943f9a6a76d975
+  - enabled: 1
+    path: Assets/Scenes/Final2.unity
+    guid: f771004363d0300498312ea37c2137de
+  m_configObjects: {}
